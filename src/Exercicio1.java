@@ -1,4 +1,4 @@
-package exe2_java;
+
 import java.util.Scanner;
 
 /*Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.*/

@@ -1,4 +1,4 @@
-package exe2_java;
+
 
 public class Main {
 
