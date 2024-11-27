@@ -13,12 +13,17 @@ public class Main {
 		//Exercício 2
 		System.out.println("--- Exercício 2 - Par ou Ímpar? ---");
 		Exercicio2 exe2 = new Exercicio2();
-		exe2.execucao();*/
+		exe2.execucao();
 		
 		//Exercício 3
 		System.out.println("--- Exercício 3 - Múltiplos ou Não? ---");
 		Exercicio3 exe3 = new Exercicio3();
-		exe3.execucao();
+		exe3.execucao();*/
+		
+		//Exercício 4
+		System.out.println("--- Exercício 4 - Duração do Jogo ---");
+		Exercicio4 exe4 = new Exercicio4();
+		exe4.execucao();
 		
 		System.exit(0);
 		
