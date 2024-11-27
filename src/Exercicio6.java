@@ -12,7 +12,7 @@ public class Exercicio6 {
 		
 		double valor;
 		
-		System.out.printf("Digite o código do item e a quantidade: ");
+		System.out.printf("Digite o valor: ");
 		valor = scan.nextDouble();
 		
 		if(valor >= 0 && valor <= 100) {

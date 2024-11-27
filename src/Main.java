@@ -28,12 +28,17 @@ public class Main {
 		//Exercício 5
 		System.out.println("--- Exercício 5 - Cardápio ---");
 		Exercicio5 exe5 = new Exercicio5();
-		exe5.execucao();*/
+		exe5.execucao();
 
 		//Exercício 6
 		System.out.println("--- Exercício 6 - Intervalo do valor ---");
 		Exercicio6 exe6 = new Exercicio6();
-		exe6.execucao();
+		exe6.execucao();*/
+		
+		//Exercício 7
+		System.out.println("--- Exercício 7 - Posição das Coordenadas ---");
+		Exercicio7 exe7 = new Exercicio7();
+		exe7.execucao();
 		
 		System.exit(0);
 		
