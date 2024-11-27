@@ -23,12 +23,17 @@ public class Main {
 		//Exercício 4
 		System.out.println("--- Exercício 4 - Duração do Jogo ---");
 		Exercicio4 exe4 = new Exercicio4();
-		exe4.execucao();*/
+		exe4.execucao();
 		
 		//Exercício 5
 		System.out.println("--- Exercício 5 - Cardápio ---");
 		Exercicio5 exe5 = new Exercicio5();
-		exe5.execucao();
+		exe5.execucao();*/
+
+		//Exercício 6
+		System.out.println("--- Exercício 6 - Intervalo do valor ---");
+		Exercicio6 exe6 = new Exercicio6();
+		exe6.execucao();
 		
 		System.exit(0);
 		
