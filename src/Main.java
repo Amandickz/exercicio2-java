@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-/*		//Exercício 1
+		//Exercício 1
 		System.out.println("--- Exercício 1 - Positivo ou Negativo? ---");
 		Exercicio1 exe1 = new Exercicio1();
 		exe1.execucao();
@@ -38,7 +38,7 @@ public class Main {
 		//Exercício 7
 		System.out.println("--- Exercício 7 - Posição das Coordenadas ---");
 		Exercicio7 exe7 = new Exercicio7();
-		exe7.execucao();*/
+		exe7.execucao();
 		
 		//Exercício 8
 		System.out.println("--- Exercício 8 - Imposto de Renda ---");
