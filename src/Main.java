@@ -33,12 +33,17 @@ public class Main {
 		//Exercício 6
 		System.out.println("--- Exercício 6 - Intervalo do valor ---");
 		Exercicio6 exe6 = new Exercicio6();
-		exe6.execucao();*/
+		exe6.execucao();
 		
 		//Exercício 7
 		System.out.println("--- Exercício 7 - Posição das Coordenadas ---");
 		Exercicio7 exe7 = new Exercicio7();
-		exe7.execucao();
+		exe7.execucao();*/
+		
+		//Exercício 8
+		System.out.println("--- Exercício 8 - Imposto de Renda ---");
+		Exercicio8 exe8 = new Exercicio8();
+		exe8.execucao();
 		
 		System.exit(0);
 		
