@@ -18,12 +18,17 @@ public class Main {
 		//Exercício 3
 		System.out.println("--- Exercício 3 - Múltiplos ou Não? ---");
 		Exercicio3 exe3 = new Exercicio3();
-		exe3.execucao();*/
+		exe3.execucao();
 		
 		//Exercício 4
 		System.out.println("--- Exercício 4 - Duração do Jogo ---");
 		Exercicio4 exe4 = new Exercicio4();
-		exe4.execucao();
+		exe4.execucao();*/
+		
+		//Exercício 5
+		System.out.println("--- Exercício 5 - Cardápio ---");
+		Exercicio5 exe5 = new Exercicio5();
+		exe5.execucao();
 		
 		System.exit(0);
 		
